@@ -8,5 +8,5 @@
 
 ### Dengan kata lain, saya mengklasifikasikan _DataTest_Tugas3_AI.csv_ _terhadap DataTrain_Tugas3_AI.csv_
 
-**Hasil pengklasifikasian berada pada file _TebakanTugas3.csv_ **
+**Hasil pengklasifikasian berada pada file _TebakanTugas3.csv_**
  
